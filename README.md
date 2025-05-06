@@ -1,5 +1,7 @@
-# 🐶🐱 Cat vs Dog Image Classifier
+# 🐶🐱 Cat vs Dog Image Classifier 
 
+![Model Accuracy](https://img.shields.io/badge/accuracy-70%25-brightgreen)
+<img src="https://cdn.pixabay.com/photo/2016/03/31/20/11/cat-1293738_960_720.png" alt="Cat and Dog Cartoon" width="400"/>
 This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images of cats and dogs. Built as part of the [freeCodeCamp Machine Learning Certification](https://www.freecodecamp.org/).
 
 ## 🎯 Objective
@@ -45,6 +47,7 @@ cats_and_dogs/
 2. Run all cells in order.
 3. Make sure the dataset downloads and unzips correctly.
 4. After training, evaluate and visualize predictions in Cells 10 & 11.
+
 
 ---
 
