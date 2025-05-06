@@ -1,8 +1,13 @@
 # 🐶🐱 Cat vs Dog Image Classifier 
 
 ![Model Accuracy](https://img.shields.io/badge/accuracy-70%25-brightgreen)
-<img src="https://cdn.pixabay.com/photo/2016/03/31/20/11/cat-1293738_960_720.png" alt="Cat and Dog Cartoon" width="400"/>
-This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images of cats and dogs. Built as part of the [freeCodeCamp Machine Learning Certification](https://www.freecodecamp.org/).
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2010-kodiak-benny.jpg/640px-2010-kodiak-benny.jpg" alt="Cat and Dog" width="600"/>
+
+This project uses a Convolutional Neural Network(CNN) built with Keras and TensorFlow 2.0 to classify images as either a cat or a dog. It uses a dataset of 3,000+ labeled images and achieves over 70% accuracy.
+
+✅ Trained on 2,000 images  
+✅ Validated on 1,000 images  
+✅ Tested on 50 unlabeled images  
 
 ## 🎯 Objective
 Train a CNN model that can classify cat and dog images with over 63% accuracy.
@@ -48,8 +53,6 @@ cats_and_dogs/
 3. Make sure the dataset downloads and unzips correctly.
 4. After training, evaluate and visualize predictions in Cells 10 & 11.
 
-
 ---
 
-🎓 **Project completed as part of freeCodeCamp Machine Learning Certification.**
 
