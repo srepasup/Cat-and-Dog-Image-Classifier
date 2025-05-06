@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Data files
+cats_and_dogs/
+cats_and_dogs.zip
+
+# Environment/config files
+.env
+*.env
